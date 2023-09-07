@@ -1,0 +1,13 @@
+bertopic==0.15.0
+numpy==1.24.4
+pandas==2.0.3
+pip==23.2.1
+session_info==1.0.0
+transformers==4.33.1
+IPython==8.14.0
+jupyter_client==8.3.0
+jupyter_core==5.3.1
+jupyterlab==4.0.5
+sentence_transformers==2.2.2
+openpyxl==3.1.2
+pyxlsb==1.0.10

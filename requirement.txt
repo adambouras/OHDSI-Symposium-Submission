@@ -13,4 +13,5 @@ openpyxl==3.1.2
 pyxlsb==1.0.10
 seaborn==0.13.0
 ipywidgets==8.1.1
-voila==0.5.4
+voila>=0.5.4
+jupyter-contrib-nbextensions=>0.7.0
